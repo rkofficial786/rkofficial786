@@ -53,7 +53,7 @@ const rupraj = {
 
 💬 **Ask me about:** React.js, Node.js, React Native, WebSocket implementation, or performance optimization strategies
 
-⚡ **Fun fact:** I've optimized applications to achieve 60% better performance and built systems handling 200GB file uploads!
+⚡ **Fun fact:** I've optimized applications to achieve 60% better performance 
 
 ---
 
@@ -110,7 +110,6 @@ const rupraj = {
 | ⚡ **System Uptime** | 99.9% across all platforms |
 | 🔧 **Performance Boost** | Up to 60% optimization |
 | 📱 **Mobile Downloads** | 5,000+ (Astroseva app) |
-| 🏢 **Enterprise Clients** | 500+ companies using Workstation |
 | 🔌 **API Integrations** | 15+ third-party services |
 | 📚 **Mentorship** | 5+ junior developers guided |
 
@@ -132,7 +131,7 @@ const rupraj = {
 - ⭐ **Features:** Order management, inventory tracking, admin dashboard
 - 💳 **Secure payment processing with comprehensive analytics**
 
-### 🔮 [Astroseva - Astrology Mobile App](https://github.com/rkofficial786/astroseva)
+### 🔮 [Astroseva - Astrology Mobile App]([https://github.com/rkofficial786/astroseva](https://play.google.com/store/apps/details?id=com.insapimarketing.astrosevaa2))
 **React Native Mobile Application**
 - 📱 **5,000+ downloads and growing**
 - 💬 **Real-time chat and video call features**
@@ -146,13 +145,6 @@ const rupraj = {
   
 **Currently open to exciting opportunities and collaborations!**
 
-```bash
-git clone https://github.com/rkofficial786/awesome-project.git
-cd awesome-project
-npm install
-npm start
-# Let's build the future together! 🚀
-```
 
 </div>
 
